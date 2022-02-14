@@ -1,0 +1,16 @@
+.center{
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+@media (max-width: 264px) {
+    .balanceButton{
+        display: flex !important;
+        justify-content: center !important;
+        margin: auto !important;
+    }
+}
+    
