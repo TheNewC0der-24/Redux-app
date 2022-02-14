@@ -1,3 +1,29 @@
+<h1 align='center'>Redux App<h1>
+
+## About
+Redux is an open-source JavaScript library for managing and centralizing application state. It is most commonly used with libraries such as React or Angular for building user interfaces. Similar to Facebook's Flux architecture.
+  
+>_I have created this application for learning and understanding the concept of redux._
+  
+## Built With
+|REACT JS |Bootstrap |
+|--- |--- |
+
+## Package installation steps
+  ```
+  npm i redux react-redux redux-thunk
+  ```
+
+## Preview
+![image](https://github.com/TheNewC0der-24/reduxapp/blob/master/Preview.png)
+  
+## Link
+```
+https://react-reduxapp.netlify.app/
+```
+  
+---
+  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
